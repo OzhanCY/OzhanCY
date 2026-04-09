@@ -73,8 +73,7 @@ A mobile UI for topping up electricity cards (Flutter-based).
 
 ## 📫 Contact Me
 
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 📧 Email: ozhandurmazmarico@gmail.com
 
 ---
 
