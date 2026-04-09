@@ -12,6 +12,7 @@
   - 📚 Library Reservation System (Web App)
   - 💬 WhatsApp-like Chat Application (WALA)
   - ⚡ Energy Card Top-up App (Flutter)
+  - 📚 To-Do-List (To learn how to use ads in the app)
 
 - 🌱 I’m currently learning:
   - Advanced Backend Development
@@ -40,7 +41,8 @@
 - Node.js / Express  
 
 ### 📱 Mobile Development
-- Flutter  
+- Flutter
+- Capasitor
 
 ### 🗄️ Databases
 - PostgreSQL (Supabase)  
@@ -58,10 +60,13 @@ A web-based system where students can reserve library tables with time limits an
 A LAN-based messaging app with encryption and multi-client support.
 
 ### 🍽️ QR Menu System
-A digital menu system for restaurants with admin dashboard and QR access.
+A digital menu system for restaurants with an admin dashboard and QR access.
 
 ### ⚡ Energy Card App
 A mobile UI for topping up electricity cards (Flutter-based).
+
+### 📚 To-Do-List
+A mobile app that allows users to create many lists (To learn how to use Google Ads in a mobile app)
 
 ---
 
@@ -73,8 +78,9 @@ A mobile UI for topping up electricity cards (Flutter-based).
 
 ## 📫 Contact Me
 
-- 📧 Email: ozhandurmazmarico@gmail.com
-
+- 📧 Email: ozhandurmazcy@gmail.com
+- 📧 LinkedIn: https://www.linkedin.com/in/özhan-durmaz-64ab622bb/?skipRedirect=true
+  
 ---
 
 ## ✨ Fun Fact
