@@ -85,4 +85,4 @@ A mobile app that allows users to create many lists (To learn how to use Google 
 
 ## ✨ Fun Fact
 
-I enjoy building apps that feel *simple, useful, and meaningful* rather than overly complicated 🚀
+I enjoy building apps that feel *simple, useful, and meaningful* rather than overly complicated
